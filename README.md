@@ -1,2 +1,2 @@
 # cake
-Version de cakephp basique avec bootstrap SB admin 2 et ACL
+Version de cakephp 2.7.0 avec bootstrap SB admin 2 et ACL
