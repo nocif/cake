@@ -70,6 +70,7 @@ Cache::config('default', array('engine' => 'File'));
  *
  */
 CakePlugin::load('DebugKit');
+CakePlugin::load('Acl', array('bootstrap' => true));
 /**
  * To prefer app translation over plugin translation, you can set
  *
